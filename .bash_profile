@@ -31,4 +31,5 @@ parse_git_branch() {
 
 # Add aliases
 alias findhere='mdfind -onlyin "`pwd`"'
+alias glog1='git log --oneline'
 # End adding aliased
