@@ -32,4 +32,12 @@ parse_git_branch() {
 # Add aliases
 alias findhere='mdfind -onlyin "`pwd`"'
 alias glog1='git log --oneline'
+alias glog='git log'
+alias gcout='git checkout'
+alias gbra='git branch'
+alias gcommit='git commit'
+alias gpush='git push'
+alias gpull='git pull'
+alias gtus='git status'
+alias gadd='git add'
 # End adding aliased
